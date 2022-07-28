@@ -1,0 +1,15 @@
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.csproj.AssemblyReference.cache
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.AssemblyInfoInputs.cache
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.AssemblyInfo.cs
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.csproj.CoreCompileInputs.cache
+C:\Users\clebe\source\repos\OOPBank\OOPBank\bin\Debug\net6.0\OOPBank.exe
+C:\Users\clebe\source\repos\OOPBank\OOPBank\bin\Debug\net6.0\OOPBank.deps.json
+C:\Users\clebe\source\repos\OOPBank\OOPBank\bin\Debug\net6.0\OOPBank.runtimeconfig.json
+C:\Users\clebe\source\repos\OOPBank\OOPBank\bin\Debug\net6.0\OOPBank.dll
+C:\Users\clebe\source\repos\OOPBank\OOPBank\bin\Debug\net6.0\OOPBank.pdb
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.dll
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\refint\OOPBank.dll
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.pdb
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\OOPBank.genruntimeconfig.cache
+C:\Users\clebe\source\repos\OOPBank\OOPBank\obj\Debug\net6.0\ref\OOPBank.dll
